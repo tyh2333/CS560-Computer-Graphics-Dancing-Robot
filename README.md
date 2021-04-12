@@ -1,3 +1,3 @@
-#Dancing Robot implemented by OpenGL:
-  Description:
+# Dancing Robot implemented by OpenGL:
+Description:
       A dancing robot using opengl in this project, every parts of the robot can move automatically according to the time since the program start, just like dancing. By using knowledge from the lectures, like GLUquadricObj, lighting things, glTranslate, glRotate, gluLookat ...
